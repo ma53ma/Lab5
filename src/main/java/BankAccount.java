@@ -15,7 +15,7 @@ public class BankAccount {
     private String ownerName;
     public double interestRate;
     private double interestEarned;
-
+    
     public int getAccountNumber() {
         return accountNumber;
     }
